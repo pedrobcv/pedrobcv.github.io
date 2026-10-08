@@ -1,0 +1,32 @@
+POLÍTICA DE PRIVACIDAD DE STAR CATCHER
+Actualizada: 7 de octubre de 2026
+Responsable y contacto: pedrobcv — bcv008@gmail.com
+
+1. Progreso y nombre de jugador
+El juego guarda en el dispositivo el progreso, las preferencias y el alias que eliges. Usa un alias; evita tu nombre real, correo u otros datos personales. El juego puede funcionar sin participar en la clasificación por Internet.
+
+2. Clasificación e inicio de sesión
+Si decides utilizar Google Play Games, Google gestiona el acceso a tu cuenta y la clasificación. Se envían a Google los puntajes y los datos necesarios para asociarlos a tu perfil de jugador. El perfil y los puntajes pueden ser visibles para otros jugadores según la configuración de Google Play Games. No recibimos tu contraseña. Puedes administrar tu perfil y sus datos en Google Play Games y en tu cuenta de Google.
+
+3. Anuncios
+La versión Android integra Google AdMob para anuncios entre partidas y vídeos voluntarios que dan una vida extra. Como el juego también está dirigido a menores de 13 años, todas las solicitudes de anuncios se configuran con tratamiento infantil, clasificación máxima G y anuncios no personalizados. La aplicación no solicita el permiso de identificador publicitario de Android.
+Google y sus proveedores pueden tratar datos técnicos, como la dirección IP, información del dispositivo, diagnósticos e interacciones con los anuncios, para entregar anuncios contextuales, medirlos y prevenir fraude. Anuncios no personalizados no significa ausencia de tratamiento de datos. No añadimos redes de mediación de terceros.
+Los controles de privacidad de anuncios aparecen en los ajustes cuando Google los exige. Si no se puede autorizar una solicitud de anuncios, el juego continúa sin cargar anuncios.
+
+4. Compras
+Si compras la opción de eliminar anuncios, Google Play procesa el pago. El juego comprueba el estado de la compra para quitar los anuncios automáticos. Los vídeos para conseguir una vida extra siguen siendo opcionales. No recibimos los datos de tu tarjeta.
+
+5. Menores y familias
+No pedimos fecha de nacimiento, ubicación precisa, teléfono ni contraseña. Los menores deben usar las funciones de cuenta y compras con la supervisión de su madre, padre o tutor y de acuerdo con las restricciones de la cuenta de Google. Evita introducir información personal en el alias. Si consideras que se ha compartido información personal de un menor, contacta con nosotros para revisar la solicitud y explicar las opciones de eliminación disponibles.
+
+6. Conservación y eliminación
+Los datos locales permanecen hasta que borres los datos de la aplicación o la desinstales; las copias de seguridad del dispositivo se gestionan desde Android. Los datos de Google Play Games, compras y anuncios se conservan según los controles y políticas de Google. Puedes solicitar ayuda o ejercer tus derechos aplicables mediante bcv008@gmail.com. No controlamos los plazos de conservación de Google y te indicaremos cómo dirigirte a ese proveedor cuando corresponda.
+
+7. Sitio web de soporte
+Esta página se aloja en GitHub Pages. No incorpora publicidad, analítica ni formularios. GitHub puede tratar registros técnicos de acceso, incluida la dirección IP, de acuerdo con su política de privacidad.
+
+8. Cambios y proveedores
+Publicaremos las modificaciones de esta política en esta página con una fecha actualizada.
+Google: https://policies.google.com/privacy
+Publicidad de Google: https://policies.google.com/technologies/ads
+GitHub: https://docs.github.com/es/site-policy/privacy-policies/github-general-privacy-statement
